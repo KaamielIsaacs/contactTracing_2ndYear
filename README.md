@@ -1,7 +1,3 @@
-Here’s a clean, GitHub-formatted version of your README, ready to copy and paste directly into a README.md file:
-
-⸻
-
 🧮 CSC211: Practical 2 — Crèche Contact Tracing
 
 📘 1. Overview and Problem Description
